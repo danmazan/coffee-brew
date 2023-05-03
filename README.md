@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # coffee-brew
 coffee brew react project
 =======
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 5634f14 (Initialize project using Create React App)
