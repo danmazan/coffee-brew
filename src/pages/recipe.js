@@ -1,4 +1,6 @@
 import React from "react";
+import Timer from "../components/Timer";
+
   
 const Recipe = () => {
   return (
@@ -6,6 +8,7 @@ const Recipe = () => {
       <h1>
         Recipe
       </h1>
+      <Timer />
     </div>
   );
 };
